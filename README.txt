@@ -1,4 +1,5 @@
 # hello_world
 github学习
 在分支的hello_world_2里面，会继承hello_world文件
-# but if you edit the files of hello_world_2,it would not influencetfile hello_worlds of 
+# 但是如果你编辑 hello_world_2 的文件，它不会影响 hello_worlds 的文件
+直接建议上传，github，文本编辑太玄学
