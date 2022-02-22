@@ -1,2 +1,3 @@
 # hello_world
 github学习
+在分支的hello_world_2里面，会继承hello_world文件
